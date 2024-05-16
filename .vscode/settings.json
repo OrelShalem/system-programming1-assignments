@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/orel-shalem/Documents/מטלה 4 תכנות מערכות",
+            "binaryPath": "/home/orel-shalem/Documents/מטלה 4 תכנות מערכות/digitcompress",
+            "binaryArgs": []
+        }
+    ]
+}
